@@ -3,7 +3,7 @@
  * reset_to_98 - The function that take the pointer is to the int as the parameter
  * updates the value to the point it points to the number 98
  * @n: input
- * Return: intger n
+ * Return:  n
  */
 void reset_to_98(int *n)
 {
